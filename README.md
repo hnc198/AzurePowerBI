@@ -34,6 +34,8 @@ In this hands-on lab, you will migrate an existing on-premises enterprise data w
 
 At the end of this hands-on lab, you will be better able to [deliver, demonstrate, solve, present, migrate, build, design, architect, construct, modify] ….
 
+Modules:
+
 ## Azure services and related products
 *Please list the services and products that are highlighted in the workshop. For example:*
 -	Azure SQL Data Warehouse
