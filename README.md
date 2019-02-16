@@ -1,7 +1,7 @@
-# Microsoft Cloud Workshop template *(replace with workshop name)*
+# Microsoft Cloud Azure PowerBI
 *Please provide an introduction to the workshop. For example:*
 
-Trey Research Inc. looks at the old way of doing things in retail and introduces innovative experiences that delight customers and drive sales. Their latest initiative focuses on intelligent vending machines that support commerce, engagement analytics, and intelligent promotions. 
+This workshop has multiple modules to help developers, architects, administrators, and technical sales to learn deep concept in multiple areas of Power BI.
 
 ## Target audience
 *Please list the target audience for this workshop. For example:*
@@ -12,7 +12,12 @@ Trey Research Inc. looks at the old way of doing things in retail and introduces
 -	Data scientist
 
 ## Abstract
-*Please provide descriptions of the overall workshop, the whiteboard design session and hands on lab. For example:*
+The workshop will discuss the following:
+-	Connecting Data Sources
+-	Merging Queries
+-	Data Modeling
+-	Publishing & Sharing Content
+-	Embedding
 
 ### Workshop
 In this workshop, you will look at the process of migrating an on-premises data warehouse to Azure SQL Data Warehouse. Throughout the whiteboard design session and hands-on lab, you will look at the planning process for data warehouse migration, identifying schema and data incompatibilities, efficiently migrating data from on-premises databases to the cloud, data distribution in Azure SQL Data Warehouse, migrating ETL jobs to Azure Data Factory, and supporting ad-hoc workloads in an Azure SQL Data Warehouse through Azure Analysis Services.
