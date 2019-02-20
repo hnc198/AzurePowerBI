@@ -32,7 +32,9 @@ Modules:
 ## Azure services and related products
 *Please list the services and products that are highlighted in the workshop. For example:*
 -	Azure SQL Data Warehouse
+-	Azure SQL DB
 -	Azure Data Factory
+-	Azure SSRS
 -	Azure Analysis Services
 -	Azure Storage
 
