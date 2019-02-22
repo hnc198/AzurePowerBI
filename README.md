@@ -27,7 +27,7 @@ Modules:
 -	Publishing Content
 -	Sharing Content
 -	Power BI Service
--	[Embedding](AzurePowerBI/Hands-on Modules/Embedding/)
+-	[Embedding](./Hands-on Modules/Embedding)
 
 ## Azure services and related products
 *Please list the services and products that are highlighted in the workshop. For example:*
