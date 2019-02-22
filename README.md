@@ -1,5 +1,5 @@
 # Microsoft Cloud Azure PowerBI Workshop
-This is a comprehensive and growing Power BI resource to help lead workshops and develop skills in specific areas of Power BI by way of dedicated modules.
+This is a comprehensive and growing library of Power BI resource to help lead workshops and develop skills in specific areas of Power BI by way of dedicated modules.
 
 ## Target audience
 -	Application developer
