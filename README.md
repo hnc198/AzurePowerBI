@@ -15,7 +15,7 @@ In this workshop, you will find resources, trainings, and labs on Power BI.  The
 ### Hands-on Modules
 Select one of the topics below to learn dive deeper.  While not mandatory to go through each module in order, it will be critical to do the Pre-Lab Work module first.  
 
-As an overview, the workshop will discuss Power BI solution architectures, provide the basics of obtaining and connecting to data sources, creating visualizations, and how to publish and share those results. 
+As an overview, the workshop will discuss Power BI solution architectures, provide the basics of obtaining and connecting to data sources, creating data models and visualizations, how to publish and share those results, and how to embed objects into client-side applications.
 
 Modules:
 -	[Pre-Lab Work](https://github.com/hnc198/AzurePowerBI/tree/master/Hands-on%20Modules/1.%20Pre-Lab%20Work)
