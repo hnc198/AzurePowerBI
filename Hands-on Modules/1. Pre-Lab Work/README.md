@@ -1,7 +1,7 @@
-# Microsoft Cloud Azure PowerBI Workshop (Embedded)
-This section contains resources for Power BI Embedded
+# Microsoft Cloud Azure PowerBI Workshop (Pre-Lab)
+This section contains information on how to create the Power BI resources required for the modules.
 
-## Embedded
+## Pre-Lab
 
 [A Power BI Dashboard contains all the following resources](https://msit.powerbi.com/groups/me/dashboards/85d29b67-df06-4d56-b762-e9e81d2d8d4c?ctid=72f988bf-86f1-41af-91ab-2d7cd011db47)
 
