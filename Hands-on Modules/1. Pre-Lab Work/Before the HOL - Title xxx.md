@@ -17,7 +17,7 @@
 <!-- /TOC -->
 
 
-# \[1. Pre-Lab Work\] before the hands-on lab setup guide 
+# \[1. Pre-Lab Work\] bbefore the hands-on lab setup guide 
 
 ## Requirements
 
