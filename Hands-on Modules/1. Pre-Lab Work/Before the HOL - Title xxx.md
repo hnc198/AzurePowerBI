@@ -11,8 +11,8 @@
     - [Requirements] (# 1. Download Power BI Desktop 2. Azure Portal Account)
    
     - [Before the hands-on lab](#before-the-hands-on-lab)
-        - [Task 1: Task name](#Download Power BI Desktop)
-        - [Task 2: Task name](#Sign into Azure Portal)
+        - [Task 1: Download Power BI Desktop](#Download Power BI Desktop)
+        - [Task 2: Sign into Azure Portal](#Sign into Azure Portal)
 
 <!-- /TOC -->
 
