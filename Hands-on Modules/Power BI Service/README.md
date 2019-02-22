@@ -1,7 +1,7 @@
-# Microsoft Cloud Azure PowerBI Workshop (Embedded)
-This section contains resources for Power BI Embedded
+# Microsoft Cloud Azure PowerBI Workshop (Power BI Service)
+This section contains resources for Power BI Service
 
-## Embedded
+## Power BI Service
 
 [A Power BI Dashboard contains all the following resources](https://msit.powerbi.com/groups/me/dashboards/85d29b67-df06-4d56-b762-e9e81d2d8d4c?ctid=72f988bf-86f1-41af-91ab-2d7cd011db47)
 
@@ -10,17 +10,6 @@ This section contains resources for Power BI Embedded
 3. Getting Started (Module)
 4. Create Power BI Embedded capacity (Video - Adam, Guy in a Cube)
 5. Ways to Embed Power BI objects (Module)
-6. 3 Ways to Embed Power BI objects (Video - Adam, Guy in a Cube)
-7. (Module)
-8. (Module)
-9. (Module)
-10. Sales (Exercise)
-11. Financial P&L (Exercise)
-12. (Module)
-13. Use Cases (PowerPoint)
-14. Nintex Use Case (Video)
-15. Power BI Embedded Capabilities and Use Cases (Video)
-
 
 ## Pre-Lab
 Please see [Pre-Lab](https://github.com/hnc198/AzurePowerBI/tree/master/Hands-on%20Modules/1.%20Pre-Lab%20Work) to ensure all resources are ready for this module
