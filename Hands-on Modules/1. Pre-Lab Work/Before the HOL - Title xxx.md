@@ -1,8 +1,6 @@
 ![](https://github.com/Microsoft/MCW-Template-Cloud-Workshop/raw/master/Media/ms-cloud-workshop.png "Microsoft Cloud Workshops")
 
-<div class="MCWHeader1">
-[Pre-Lab]
-</div>
+## Pre-Lab
 
 
 **Contents**
@@ -13,12 +11,13 @@
     - [Requirements] (# 1. Download Power BI Desktop 2. Azure Portal Account)
    
     - [Before the hands-on lab](#before-the-hands-on-lab)
-        - [Task 1: Task name](#task-1-task-name)
-        - [Task 2: Task name](#task-2-task-name)
+        - [Task 1: Task name](#Download Power BI Desktop)
+        - [Task 2: Task name](#Sign into Azure Portal)
 
 <!-- /TOC -->
 
-# \[insert workshop name here\] before the hands-on lab setup guide 
+
+# \[1. Pre-Lab Work\] before the hands-on lab setup guide 
 
 ## Requirements
 
@@ -30,7 +29,7 @@ You should follow all steps provided *before* performing the Hands-on lab.
 
 Duration: 30 minutes
 
-### Task 1: Download and Install Power BI Desktop
+### Task 1: Download Power BI Desktop
 
 1.  [Download Link](https://go.microsoft.com/fwlink/?LinkID=521662) . . . 
 
@@ -38,7 +37,7 @@ Duration: 30 minutes
 
         i.  
 
-### Task 2: Task name
+### Task 2: Sign into Azure Portal
 
 1.  Number and insert your custom workshop content here . . . 
 
