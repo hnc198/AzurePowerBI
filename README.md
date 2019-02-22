@@ -1,25 +1,25 @@
 # Microsoft Cloud Azure PowerBI Workshop
-This is a comprehensive and growing workshop to help anyone train in specific areas of Power BI by way of modules.
+This is a comprehensive and growing Power BI resource to help lead workshops and develop skills in specific areas of Power BI by way of dedicated modules.
 
 ## Target audience
-*Please list the target audience for this workshop. For example:*
 -	Application developer
 -	Infrastructure architect
 -	Database administrator
 -	AI developer
 -	Data scientist
+- Analyst
 
-### Workshop & Modules
-In this workshop, you will find resources, trainings, and labs on Power BI.  The workshop consists of continually added modules that will include data sets, PowerPoints, instructions, and sample workbooks. 
+### Workshop
+In this workshop, you will find resources, trainings, and labs on Power BI.  The workshop will continually be updated with modules that will include data sets, PowerPoints, instructions, sample workbooks, and web apps. 
 
-### Hands-on labs
-Select one of the hands-on labs to further investigate a topic.  Wihle not mandatory to go through eat module in order, it will be critical to do the Pre-Lab Work module first.  
+### Hands-on Modules
+Select one of the topics below to learn dive deeper.  While not mandatory to go through each module in order, it will be critical to do the Pre-Lab Work module first.  
 
 As an overview, the workshop will discuss Power BI solution architectures, provide the basics of obtaining and connecting to data sources, creating visualizations, and how to publish and share those results. 
 
 Modules:
--	Architectural Designs
 -	Pre-Lab Work
+-	Architectural Designs
 -	Data Sources
 -	Connectors
 -	Creating Data Models
@@ -27,7 +27,7 @@ Modules:
 -	Publishing Content
 -	Sharing Content
 -	Power BI Service
--	Embedding
+-	[Embedding](https://github.com/hnc198/AzurePowerBI/tree/master/Hands-on%20Modules/Embedding)
 
 ## Azure services and related products
 *Please list the services and products that are highlighted in the workshop. For example:*
