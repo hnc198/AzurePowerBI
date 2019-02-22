@@ -9,7 +9,7 @@
 
 <!-- TOC -->
 
-- [\[Pre-Lab Work\] before the hands-on lab setup guide](#\insert-workshop-name-here\-before-the-hands-on-lab-setup-guide)
+- Pre-Lab Work setup guide
     - [Requirements] (# 1. Download Power BI Desktop 2. Azure Portal Account)
    
     - [Before the hands-on lab](#before-the-hands-on-lab)
