@@ -1,5 +1,5 @@
 # Microsoft Cloud Azure PowerBI Workshop (Embedded)
-This is a comprehensive and growing workshop to help anyone train in specific areas of Power BI by way of modules.
+This section contains resources for Power BI Embedded
 
 ## Embedded
 
