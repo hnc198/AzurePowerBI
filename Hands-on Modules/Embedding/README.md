@@ -13,7 +13,7 @@ This section contains resources for Power BI Embedded
 6. 3 Ways to Embed Power BI objects (Video - Adam, Guy in a Cube)
 7. (Module)
 8. (Module)
-9. (Module)
+9. [Power BI Embedded Playground](https://microsoft.github.io/PowerBI-JavaScript/demo/v2-demo/index.html) (Module)
 10. Sales (Exercise)
 11. Financial P&L (Exercise)
 12. (Module)
