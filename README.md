@@ -18,15 +18,15 @@ Select one of the topics below to learn dive deeper.  While not mandatory to go 
 As an overview, the workshop will discuss Power BI solution architectures, provide the basics of obtaining and connecting to data sources, creating visualizations, and how to publish and share those results. 
 
 Modules:
--	Pre-Lab Work
--	Architectural Designs
+-	[Pre-Lab Work](https://github.com/hnc198/AzurePowerBI/tree/master/Hands-on%20Modules/1.%20Pre-Lab%20Work)
+-	[Architectural Designs](https://github.com/hnc198/AzurePowerBI/tree/master/Hands-on%20Modules/Architectural%20Designs)
 -	Data Sources
 -	Connectors
 -	Creating Data Models
 -	Merging Queries
 -	Publishing Content
 -	Sharing Content
--	Power BI Service
+-	[Power BI Service](https://github.com/hnc198/AzurePowerBI/tree/master/Hands-on%20Modules/Power%20BI%20Service)
 -	[Embedding](https://github.com/hnc198/AzurePowerBI/tree/master/Hands-on%20Modules/Embedding)
 
 ## Azure services and related products
