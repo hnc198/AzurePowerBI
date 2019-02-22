@@ -27,7 +27,7 @@ Modules:
 -	Publishing Content
 -	Sharing Content
 -	Power BI Service
--	Embedding
+-	[Embedding](https://msit.powerbi.com/groups/me/dashboards/85d29b67-df06-4d56-b762-e9e81d2d8d4c?ctid=72f988bf-86f1-41af-91ab-2d7cd011db47)
 
 ## Azure services and related products
 *Please list the services and products that are highlighted in the workshop. For example:*
