@@ -1,5 +1,5 @@
 # Microsoft Cloud Azure PowerBI Workshop 
-This section contains resources for Power BI Embedded
+This section contains all available Modules.
 
 ## Modules
 Select one of the topics below to learn dive deeper. While not mandatory to go through each module in order, it will be critical to do the [Pre-Lab](https://github.com/hnc198/AzurePowerBI/tree/master/Hands-on%20Modules/1.%20Pre-Lab%20Work) Work module first.
