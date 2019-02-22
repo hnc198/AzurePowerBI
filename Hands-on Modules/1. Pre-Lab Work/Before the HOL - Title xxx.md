@@ -26,13 +26,13 @@
 
 ## Before the hands-on lab
 
-Duration: X minutes
+You should follow all steps provided *before* performing the Hands-on lab.
 
-\[insert your custom workshop content here . . . 
+Duration: 30 minutes
 
-### Task 1: Task name
+### Task 1: Download and Install Power BI Desktop
 
-1.  Number and insert your custom workshop content here . . . 
+1.  [Download Link](https://go.microsoft.com/fwlink/?LinkID=521662) . . . 
 
     a.  Insert content here
 
@@ -46,9 +46,11 @@ Duration: X minutes
 
         i.  
 
-You should follow all steps provided *before* performing the Hands-on lab.
+
+
 
 ## Legal Notice
+
 
 
 Information in this document, including URL and other Internet Web site references, is subject to change without notice. Unless otherwise noted, the example companies, organizations, products, domain names, e-mail addresses, logos, people, places, and events depicted herein are fictitious, and no association with any real company, organization, product, domain name, e-mail address, logo, person, place or event is intended or should be inferred. Complying with all applicable copyright laws is the responsibility of the user. Without limiting the rights under copyright, no part of this document may be reproduced, stored in or introduced into a retrieval system, or transmitted in any form or by any means (electronic, mechanical, photocopying, recording, or otherwise), or for any purpose, without the express written permission of Microsoft Corporation.
