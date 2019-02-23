@@ -2,7 +2,7 @@
 This section contains all available Modules.
 
 ## Modules
-Select one of the topics below to learn dive deeper. While not mandatory to go through each module in order, it will be critical to do the [Pre-Lab Work](https://github.com/hnc198/AzurePowerBI/tree/master/Hands-on%20Modules/1.%20Pre-Lab%20Work) Module **first**.
+Select one of the topics below to dive deeper. While not mandatory to go through each module in order, it will be critical to do the [Pre-Lab Work](https://github.com/hnc198/AzurePowerBI/tree/master/Hands-on%20Modules/1.%20Pre-Lab%20Work) Module **first**.
 
 As an overview, the workshop will discuss Power BI solution architectures, provide the basics of obtaining and connecting to data sources, creating data models and visualizations, how to publish and share those results, and how to embed objects into client-side applications.
 
