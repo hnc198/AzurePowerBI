@@ -8,7 +8,7 @@ As an overview, the workshop will discuss Power BI solution architectures, provi
 
 -	[Pre-Lab Work](https://github.com/hnc198/AzurePowerBI/tree/master/Hands-on%20Modules/1.%20Pre-Lab%20Work) - 30 Minutes
 -	[Architectural Designs](https://github.com/hnc198/AzurePowerBI/tree/master/Hands-on%20Modules/Architectural%20Designs) - 30 Minutes
--	Data Sources - 15 Minutes
+-	[Data Sources](/Data%20Sources) - 15 Minutes
 -	Connectors - 15 Minutes
 -	Creating Data Models - 1 Hour
 -	Merging Queries - 30 Minutes
