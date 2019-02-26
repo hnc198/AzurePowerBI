@@ -30,9 +30,9 @@ As an overview, the workshop will discuss Power BI solution architectures, provi
 -	[Embedding](https://github.com/hnc198/AzurePowerBI/tree/master/Hands-on%20Modules/Embedding)
 
 ## Resources
-- Select your prefered type of [Data Set](https://github.com/hnc198/AzurePowerBI/tree/master/1.%20Data%20Sets)
-- Download any of the attached [Workbooks](https://github.com/hnc198/AzurePowerBI/tree/master/2.%20Workbooks) and publish them to your 'Workspace' 
-- Download or clone any of the [Web Apps](https://github.com/hnc198/AzurePowerBI/tree/master/3.%20Web%20Apps) 
+- Select your prefered type of [Data Set](/1.%20Data%20Sets)
+- Download any of the attached [Workbooks](/2.%20Workbooks) and publish them to your 'Workspace' 
+- Download or clone any of the [Web Apps](/3.%20Web%20Apps) 
 
 ## Azure services and related products
 *Please list the services and products that are highlighted in the workshop. For example:*
