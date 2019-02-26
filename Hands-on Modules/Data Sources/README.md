@@ -36,7 +36,7 @@ The Database category provides the following data connections:
 
 
 ## Pre-Lab
-Please see [Pre-Lab](./1.%20Pre-Lab%20Work) to ensure all resources are ready for this module
+Please see [Pre-Lab](../1.%20Pre-Lab%20Work) to ensure all resources are ready for this module
 
 ## Resources
 - Select your prefered type of [Data Set](../1.%20Data%20Sets)
