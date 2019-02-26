@@ -26,7 +26,7 @@ As an overview, the workshop will discuss Power BI solution architectures, provi
 -	Merging Queries
 -	Publishing Content
 -	Sharing Content
--	[Power BI Service](https://github.com/hnc198/AzurePowerBI/tree/master/Hands-on%20Modules/Power%20BI%20Service)
+-	[Power BI Service](/Hands-on%20Modules/Power%20BI%20Service)
 -	[Embedding](https://github.com/hnc198/AzurePowerBI/tree/master/Hands-on%20Modules/Embedding)
 
 ## Resources
