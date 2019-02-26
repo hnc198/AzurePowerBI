@@ -20,7 +20,7 @@ As an overview, the workshop will discuss Power BI solution architectures, provi
 #### [Modules](/Hands-on%20Modules):
 -	[Pre-Lab Work](/Hands-on%20Modules/1.%20Pre-Lab%20Work)
 -	[Architectural Designs](/Hands-on%20Modules/Architectural%20Designs)
--	Data Sources
+-	[Data Sources](/Hands-on%20Modules/Data%20Sources)
 -	Connectors
 -	Creating Data Models
 -	Merging Queries
