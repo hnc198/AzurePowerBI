@@ -3,7 +3,7 @@ This section contains information on how to create the Power BI resources requir
 
 ## Pre-Lab
 
-[A Power BI Dashboard contains all the following resources](https://msit.powerbi.com/groups/me/dashboards/d27e2ac2-d4a7-424c-8c21-ac2be1e3ca6e?ctid=72f988bf-86f1-41af-91ab-2d7cd011db47)
+[A Power BI Dashboard contains all the following resources](https://msit.powerbi.com/groups/me/dashboards/a51b0b3e-046e-42be-9a69-837fc64fe362?ctid=72f988bf-86f1-41af-91ab-2d7cd011db47)
 
 1. What is Power BI (PowerPoint)
 2. Concepts and FAQs (PowerPoint)
