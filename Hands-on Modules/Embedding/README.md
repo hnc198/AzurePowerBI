@@ -1,9 +1,9 @@
 # Microsoft Cloud Azure PowerBI Workshop (Embedded)
 This section contains resources for Power BI Embedded
 
-## Embedded
+## [Use a Power BI Dashboard for a guided path](https://msit.powerbi.com/groups/me/apps/b8b1db8c-97e7-4bb6-a350-94f4b08ff7f3)
 
-[Use a Power BI Dashboard for a guided path](https://msit.powerbi.com/groups/me/apps/b8b1db8c-97e7-4bb6-a350-94f4b08ff7f3)
+## Embedded
 
 1. [What is Power BI (PowerPoint)](./1.%20What%20is%20Power%20BI%20Embedded.pptx)
 2. [What is Power BI (Video)](./2.%20%20What%20is%20Power%20BI%20Embedded%20(Video).md)
