@@ -3,7 +3,7 @@ This section contains information on how to create the Power BI resources requir
 
 ## Pre-Lab
 
-[A Power BI Dashboard contains a guided path](https://msit.powerbi.com/groups/me/dashboards/a51b0b3e-046e-42be-9a69-837fc64fe362?ctid=72f988bf-86f1-41af-91ab-2d7cd011db47)
+[Use a Power BI Dashboard for a guided path](https://msit.powerbi.com/groups/me/apps/b8b1db8c-97e7-4bb6-a350-94f4b08ff7f3)
 
 1. Pre-Lab Introduction (PowerPoint)
 2. Concepts and FAQs (PowerPoint)
