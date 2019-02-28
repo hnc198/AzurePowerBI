@@ -24,8 +24,8 @@ As an overview, the workshop will discuss Power BI solution architectures, provi
 -	Connectors
 -	Creating Data Models
 -	Merging Queries
--	Publishing Content
--	Sharing Content
+-	[Publishing Content](/Hands-on%20Modules/Publishing%20Content)
+-	[Sharing Content](/Hands-on%20Modules/Sharing%20Content)
 -	[Power BI Service](/Hands-on%20Modules/Power%20BI%20Service)
 -	[Embedding](/Hands-on%20Modules/Embedding)
 
