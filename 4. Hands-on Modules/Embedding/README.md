@@ -11,9 +11,10 @@ This section contains resources for Power BI Embedded
 6. [3 Ways to Embed Power BI objects (Video - Adam, Guy in a Cube)](./6.%20%203%20Ways%20to%20Embed%20Power%20BI%20Objects%20(Video).md)
 7. [Embedding Module]()
 8. [Resources](./8.Resources.pptx)
-9. [BLANK] (./_10.%20Performance%20Best%20Practices.pptx)
-10. [Power BI Embedded Playground](https://microsoft.github.io/PowerBI-JavaScript/demo/v2-demo/index.html) (Module)11. [Security and Permissions](./_11.%20Security%20and%20Permissions.pptx)
-12. [Performance Best Practices](Module)
+9. [BLANK] 
+10. [Power BI Embedded Playground](https://microsoft.github.io/PowerBI-JavaScript/demo/v2-demo/index.html) (Module)
+11. [Security and Permissions](./_11.%20Security%20and%20Permissions.pptx)
+12. [Performance Best Practices](./_12.%20Performance%20Best%20Practices.pptx)(Module)
 13. [Use Cases (PowerPoint)](./_13.%20Use%20Cases.pptx)
 14. [Nintex Use Case (Video)](./_14.%20%20Nintex%20Use%20Case%20(Video).md)
 15. [Power BI Embedded Capabilities and Use Cases (Video)](./_15.%20%20Power%20BI%20Embedded%20Capabilities%20and%20Use%20Cases%20(Video).md)
