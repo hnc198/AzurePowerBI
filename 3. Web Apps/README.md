@@ -4,7 +4,6 @@ This section contains Web Apps to Embed Power BI objects
 ## Web Apps
 
 1. Demo 1
-2. Demo 2
 
 ## Pre-Lab
 Please see [Pre-Lab](https://github.com/hnc198/AzurePowerBI/tree/master/Hands-on%20Modules/1.%20Pre-Lab%20Work) to ensure all resources are ready for this module

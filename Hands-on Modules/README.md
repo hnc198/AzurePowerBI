@@ -12,8 +12,8 @@ While not mandatory to go through each module in order, it will be critical to d
 -	Connectors - 15 Minutes
 -	Creating Data Models - 1 Hour
 -	Merging Queries - 30 Minutes
--	Publishing Content - 30 Minutes
--	Sharing Content - 30 Minutes
+-	[Publishing Content](./Publishing%20Content) - 30 Minutes
+-	[Sharing Content](./Sharing%20Content) - 30 Minutes
 -	[Power BI Service](./Power%20BI%20Service) - 30 Minutes
 -	[Embedding](./Embedding) - 1.5 Hours
 
