@@ -6,7 +6,7 @@ This section contains Data Sources
 
 ## Data Sources
 
-###The Database category provides the following data connections:
+### The Database category provides the following data connections:
 
 •	SQL Server Database
 •	Access Database
