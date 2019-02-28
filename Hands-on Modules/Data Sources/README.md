@@ -3,6 +3,9 @@ This section contains Data Sources
 
 ## Data Sources
 
+[Use a Power BI Dashboard for a guided path](https://msit.powerbi.com/groups/me/apps/b8b1db8c-97e7-4bb6-a350-94f4b08ff7f3)
+
+
 The Database category provides the following data connections:
 
 •	SQL Server Database
