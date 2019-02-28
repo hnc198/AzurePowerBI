@@ -1,13 +1,9 @@
 # Microsoft Cloud Azure PowerBI Workshop (Power BI Service)
 This section contains resources for Power BI Service
 
-## Power BI Service
+## Publishing Content
 
-1. What is Power BI (PowerPoint)
-2. What is Power BI (Video)
-3. Getting Started (Module)
-4. Create Power BI Embedded capacity (Video - Adam, Guy in a Cube)
-5. Ways to Embed Power BI objects (Module)
+1. Publishing Content Module
 
 ## Guided Path (For Microsoft Internal Employees Only)
 [Use a Power BI Dashboard for a guided path](https://msit.powerbi.com/groups/me/apps/b8b1db8c-97e7-4bb6-a350-94f4b08ff7f3)
