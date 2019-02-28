@@ -1,5 +1,5 @@
-# Microsoft Cloud Azure PowerBI Workshop (Power BI Service)
-This section contains resources for Power BI Service
+# Microsoft Cloud Azure PowerBI Workshop (Publishing Content)
+This section contains resources for Publishing Power BI Content
 
 ## Publishing Content
 
