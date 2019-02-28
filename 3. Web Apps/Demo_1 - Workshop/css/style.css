@@ -1,18 +1,18 @@
 html, body  {
     position: relative;
-    background-color: #323232;
+    background-color: #373737;
     font-family: 'Montserrat', sans-serif;
 }
 
 #wrapper {
     width: 100%;
-    background-color: #2a2a2a;
+    background-color: #373737;
 }
 
 #page-wrapper {
     padding: 0 15px;
     min-height: 568px;
-    background-color: #323232;
+    background-color: #373737;
     color: white;
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
@@ -20,7 +20,7 @@ html, body  {
 }
 
 .sidebar {
-    background-color: #2a2a2a;
+    background-color: #fdd735;
     margin-top: 0 !important;
     top: 0;
     bottom: 0;
@@ -33,22 +33,19 @@ html, body  {
         padding: 30px 30px 30px 30px;
     }
     .navbar-default {
-        margin-left: 0px;
-        margin-right: 0px;
+        margin-left: 295px;
+        margin-right: 50px;
         padding-top: 20px;
         padding-bottom: 20px;
     }
     .sidebar {
-        padding-top: 100px;
+        padding-top: 90px;
     }
 }
 
 .navbar-default {
-    background: #2a2a2a;
-    border-bottom: none;
-    -webkit-box-shadow: 2px 6px 5px 0px rgba(0,0,0,0.75);
-    -moz-box-shadow: 2px 6px 5px 0px rgba(0,0,0,0.75);
-    box-shadow: 2px 6px 5px 0px rgba(0,0,0,0.75);
+    background: none;
+    border-bottom: solid 1px #6C728E;
 }
 
 .navbar-default .navbar-brand {
@@ -92,22 +89,6 @@ html, body  {
     height: 2px;
 }
 
-.sidebar .divider {
-  background-color: #252525;
-  height: 3px;
-  width: 100%;
-}
-
-.sidebar .section-title {
-    color: #438D7F;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    font-weight: 300;
-    font-size: 16px;
-    padding-left: 40px;
-    text-transform: uppercase;
-}
-
 .navbar-top-links .dropdown-menu li {
   display: block;
 }
@@ -143,7 +124,7 @@ html, body  {
 }
 
 .sidebar ul li a {
-    color: #858585;
+    color: #000000;
     padding-top: 20px;
     padding-bottom: 20px;
     font-family: 'Montserrat', sans-serif;
@@ -164,12 +145,11 @@ html, body  {
 }
 
 .sidebar ul li.active {
-    background-color: #222222;
+    background-color: #373737;
 }
 
 .sidebar ul li.active a {
-    color: white;
-    border-right: 5px solid #1eb799;
+    color: #FDD735;
 }
 
 .sidebar .arrow {
