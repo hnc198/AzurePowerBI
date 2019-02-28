@@ -1,9 +1,7 @@
 # Microsoft Cloud Azure PowerBI Workshop (Embedded)
 This section contains resources for Power BI Embedded
 
-## Embedded
-
-[A Power BI Dashboard contains a guided path for the below resources](https://msit.powerbi.com/groups/me/dashboards/85d29b67-df06-4d56-b762-e9e81d2d8d4c?ctid=72f988bf-86f1-41af-91ab-2d7cd011db47)
+## Embedded Resources
 
 1. [What is Power BI (PowerPoint)](./1.%20What%20is%20Power%20BI%20Embedded.pptx)
 2. [What is Power BI (Video)](./2.%20%20What%20is%20Power%20BI%20Embedded%20(Video).md)
@@ -21,6 +19,8 @@ This section contains resources for Power BI Embedded
 14. [Nintex Use Case (Video)](./_14.%20%20Nintex%20Use%20Case%20(Video).md)
 15. [Power BI Embedded Capabilities and Use Cases (Video)](./_15.%20%20Power%20BI%20Embedded%20Capabilities%20and%20Use%20Cases%20(Video).md)
 
+## Guided Path (For Microsoft Internal Employees Only)
+[Use a Power BI Dashboard for a guided path](https://msit.powerbi.com/groups/me/apps/b8b1db8c-97e7-4bb6-a350-94f4b08ff7f3)
 
 ## Pre-Lab
 Please see [Pre-Lab](https://github.com/hnc198/AzurePowerBI/tree/master/Hands-on%20Modules/1.%20Pre-Lab%20Work) to ensure all resources are ready for this module
