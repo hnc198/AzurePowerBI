@@ -3,7 +3,7 @@ This section contains information on how to create the Power BI resources requir
 
 ## Pre-Lab
 
-1. Pre-Lab Introduction (PowerPoint)
+1. [Pre-Lab Introduction (PowerPoint)](https://microsoft-my.sharepoint.com/:p:/p/hachaudh/EUtW9fsR5EBEimbBXBohEzcBUPlf_7c6pOuwspNYn2WI5g?e=LcSiMk)
 2. Pre-Lab Module (PowerPoint)
 3. Concepts and FAQs (PowerPoint)
 
