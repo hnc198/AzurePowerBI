@@ -5,11 +5,11 @@ This section contains resources for Power BI Embedded
 
 1. [What is Power BI (PowerPoint)](./1.%20What%20is%20Power%20BI%20Embedded.pptx)
 2. [What is Power BI (Video)](./2.%20%20What%20is%20Power%20BI%20Embedded%20(Video).md)
-3. [Getting Started (Module)](./3.%20Getting%20Started.pptx)
+3. [Getting Started Module (PowerPoint)](./3.%20Getting%20Started%20Module.pptx)
 4. [Create Power BI Embedded capacity (Video - Adam, Guy in a Cube)](./4.%20Create%20Power%20BI%20Embedded%20Capacity%20(Video).md)
 5. [Ways to Embed Power BI objects (PowerPoint)](./5.%20Ways%20to%20Embed%20Power%20BI%20objects.pptx)
 6. [3 Ways to Embed Power BI objects (Video - Adam, Guy in a Cube)](./6.%20%203%20Ways%20to%20Embed%20Power%20BI%20Objects%20(Video).md)
-7. [Embedding (Module)](./7.%20Embedding.pptx)
+7. [Embedding Module (PowerPoint)](./7.%20Embedding%20Module.pptx)
 8. [Resources (PowerPoint)](./8.Resources.pptx)
 9. [BLANK] 
 10. [Power BI Embedded Playground (Resource)](https://microsoft.github.io/PowerBI-JavaScript/demo/v2-demo/index.html) (Module)
