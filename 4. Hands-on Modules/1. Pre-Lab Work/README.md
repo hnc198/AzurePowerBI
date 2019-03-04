@@ -4,8 +4,9 @@ This section contains information on how to create the Power BI resources requir
 ## Pre-Lab
 
 1. Pre-Lab Introduction (PowerPoint)
-2. Concepts and FAQs (PowerPoint)
-3. Pre-Lab Module (Module)
+2. Pre-Lab Module (PowerPoint)
+3. Concepts and FAQs (PowerPoint)
+
 
 ## Guided Path (For Microsoft Internal Employees Only)
 [Use a Power BI Dashboard for a guided path](https://msit.powerbi.com/groups/me/apps/b8b1db8c-97e7-4bb6-a350-94f4b08ff7f3)
