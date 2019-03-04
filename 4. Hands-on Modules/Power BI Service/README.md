@@ -4,7 +4,7 @@ This section contains resources for Power BI Service
 ## Power BI Service Resources
 
 1. Introduction to Power BI Service (PowerPoint)
-2.  Getting Started with the Power BI Service (Video)
+2. Getting Started with the Power BI Service (Video)
 3. Power BI Service Module (PowerPoint)
 
 
