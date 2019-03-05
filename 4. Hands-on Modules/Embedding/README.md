@@ -10,7 +10,7 @@ This section contains resources for Power BI Embedded
 5. [Ways to Embed Power BI objects (PowerPoint)](./5.%20Ways%20to%20Embed%20Power%20BI%20objects.pptx)
 6. [3 Ways to Embed Power BI objects (Video - Adam, Guy in a Cube)](./6.%20%203%20Ways%20to%20Embed%20Power%20BI%20Objects%20(Video).md)
 7. [Embedding Module (PowerPoint)](./7.%20Embedding%20Module.pptx)
-8. [Resources (PowerPoint)](./8.Resources.pptx)
+8. [Resources (PowerPoint)](./8.%20Resources.pptx)
 9. [Manage Capacity in Azure (PowerPoint)](./9.%20Manage%20Capacity%20in%20Azure.pptx) 
 10. [Power BI Embedded Playground (Resource)](https://microsoft.github.io/PowerBI-JavaScript/demo/v2-demo/index.html)
 11. [Security and Permissions (PowerPoint)](./_11.%20Security%20and%20Permissions.pptx)
