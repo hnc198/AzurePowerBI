@@ -3,7 +3,8 @@ This section contains resources for Sharing Power BI Content
 
 ## Sharing Content
 
-1. Sharing Content Module
+1. [Sharing Content Introduction (PowerPoint)](./1.%20Sharing%20Content%20Introduction.pptx)
+2. [Sharing Content Module (PowerPoint)](./2.%20Sharing%20Content%20Module.pptx)
 
 ## Guided Path (For Microsoft Internal Employees Only)
 [Use a Power BI Dashboard for a guided path](https://msit.powerbi.com/groups/me/apps/b8b1db8c-97e7-4bb6-a350-94f4b08ff7f3)
