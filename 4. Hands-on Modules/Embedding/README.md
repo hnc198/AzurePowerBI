@@ -12,7 +12,7 @@ This section contains resources for Power BI Embedded
 7. [Embedding Module (PowerPoint)](./7.%20Embedding%20Module.pptx)
 8. [Resources (PowerPoint)](./8.Resources.pptx)
 9. [Manage Capacity in Azure (PowerPoint)](./9.%20Manage%20Capacity%20in%20Azure.pptx) 
-10. [Power BI Embedded Playground (Resource)](https://microsoft.github.io/PowerBI-JavaScript/demo/v2-demo/index.html) (Module)
+10. [Power BI Embedded Playground (Resource)](https://microsoft.github.io/PowerBI-JavaScript/demo/v2-demo/index.html)
 11. [Security and Permissions (PowerPoint)](./_11.%20Security%20and%20Permissions.pptx)
 12. [Performance Best Practices (PowerPoint)](./_12.%20Performance%20Best%20Practices.pptx)
 13. [Use Cases (PowerPoint)](./_13.%20Use%20Cases.pptx)
