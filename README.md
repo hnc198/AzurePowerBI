@@ -23,9 +23,6 @@ While not mandatory to go through each module in order, it will be critical to d
 -	[Pre-Lab Work](/4.%20Hands-on%20Modules/1.%20Pre-Lab%20Work)
 -	[Architectural Designs](/4.%20Hands-on%20Modules/Architectural%20Designs)
 -	[Data Sources](/4.%20Hands-on%20Modules/Data%20Sources)
--	Connectors
--	Creating Data Models
--	Merging Queries
 -	[Publishing Content](/4.%20Hands-on%20Modules/Publishing%20Content)
 -	[Sharing Content](/4.%20Hands-on%20Modules/Sharing%20Content)
 -	[Power BI Service](/4.%20Hands-on%20Modules/Power%20BI%20Service)
