@@ -3,7 +3,7 @@ This section contains resources for Publishing Power BI Content
 
 ## Publishing Content
 
-1. Publishing Content Module
+1. [Publishing Content Module](./1.%20Publishing%20Content%20Module.pptx)
 
 ## Guided Path (For Microsoft Internal Employees Only)
 [Use a Power BI Dashboard for a guided path](https://msit.powerbi.com/groups/me/apps/b8b1db8c-97e7-4bb6-a350-94f4b08ff7f3)
