@@ -11,7 +11,7 @@ As an overview, the workshop will discuss Power BI solution architectures, provi
 -	Data scientist
 - Analyst
 
-### Workshop
+### Workshop Information
 In this workshop, you will find resources, trainings, and labs on Power BI.  The workshop will continually be updated with modules that will include data sets, PowerPoints, instructions, sample workbooks, and web apps. 
 
 ### Hands-on Modules
