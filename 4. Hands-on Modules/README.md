@@ -11,7 +11,7 @@ While not mandatory to go through each module in order, it will be critical to d
 -	[Data Sources](./Data%20Sources) - 15 Minutes
 -	[Publishing Content](./Publishing%20Content) - 30 Minutes
 -	[Sharing Content](./Sharing%20Content) - 30 Minutes
--	[Power BI Service](./Power%20BI%20Service) - 30 Minutes
+-	[Power BI Service](./Power%20BI%20Service) - 1 Hour
 -	[Embedding](./Embedding) - 1.5 Hours
 
 ## Guided Path (For Microsoft Internal Employees Only)
