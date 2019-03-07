@@ -14,7 +14,7 @@ As an overview, the workshop will discuss Power BI solution architectures, provi
 ### Workshop
 In this workshop, you will find resources, trainings, and labs on Power BI.  The workshop will continually be updated with modules that will include data sets, PowerPoints, instructions, sample workbooks, and web apps. 
 
-### Hands-on [Modules](/4.%20Hands-on%20Modules)
+### Hands-on Modules
 Select one of the topics below to dive deeper. 
 
 While not mandatory to go through each module in order, it will be critical to do the Pre-Lab Work module first.  
